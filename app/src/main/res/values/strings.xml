@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollapsingToolbar</string>
+    <string name="large_text">This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  This is a large text  </string>
+    <string name="toolbar_title">Toolbar title</string>
+</resources>
